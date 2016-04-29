@@ -9,8 +9,7 @@ Unquestionably,This is an age when fixed costs must be kept to a minimum. If fou
 
 Module
 ====
--  Text chat between friends, expressions, video calls, file transfer, etc. 
--  Group chat
+-  Text chat between friends, expressions, video calls, file transfer,Group chat etc. 
 -  Add buddies from address book
 -  Scan QR Code to add buddy, Scan QR Code to transfer between friends
 -  WeChat public account information push
@@ -18,7 +17,7 @@ Module
 
 Usage
 ====  
- wait...
+ TODO...
 FAQ 
 ====  
- wait...
+ TODO...
