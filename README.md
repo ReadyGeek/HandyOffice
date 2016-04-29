@@ -5,7 +5,7 @@ Thanks to mobile communications, ubiquitous WiFi and cloud storage, together wit
 
 Unquestionably,This is an age when fixed costs must be kept to a minimum. If founders or employees prefer the informal method of distributed working, then you can save money and have a happier workforce if they labour from home, car or a cool espresso bar.
 
-[中文介绍](https://github.com/ReadyGeek/HandyOffice) 
+[中文介绍](https://github.com/ReadyGeek/HandyOffice/wiki) 
 
 ![占坑](http://img.hb.aicdn.com/fe61b121fffe1ac89611a07d281d5399aa3d306c216d70-19LHqu_fw658) 
 
