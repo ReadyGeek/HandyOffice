@@ -9,13 +9,16 @@ Unquestionably,This is an age when fixed costs must be kept to a minimum. If fou
 
 Module
 ====
-＊ ONE
-＊ TWE
-＊ Three
-＊ Four
+-  Text chat between friends, expressions, video calls, file transfer, etc. 
+-  Group chat
+-  Add buddies from address book
+-  Scan QR Code to add buddy, Scan QR Code to transfer between friends
+-  WeChat public account information push
+-  Circle of friends
 
 Usage
 ====  
-
+ wait...
 FAQ 
 ====  
+ wait...
