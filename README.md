@@ -7,6 +7,8 @@ Unquestionably,This is an age when fixed costs must be kept to a minimum. If fou
 
 [中文介绍](https://github.com/ReadyGeek/HandyOffice) 
 
+![占坑](http://img.ui.cn/data/file/3/5/9/133953.jpg?imageMogr2/auto-orient/quality/100) 
+
 Module
 ====
 -  Text chat between friends, expressions, video calls, file transfer,Group chat etc. 
